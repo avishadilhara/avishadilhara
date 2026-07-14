@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2EA3F7,4169E1,1E90FF&height=200&section=header&text=Avisha%20Dilhara&fontSize=70&fontAlignY=35&desc=ML/AI%20Engineer%20%7C%20NLP%20Researcher&descAlignY=55&descSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2EA3F7,4169E1,1E90FF&height=200&section=header&text=Avisha%20Dilhara&fontSize=70&fontAlignY=35&desc=BSc%20(Hons)%20Computer%20Science&descAlignY=55&descSize=20&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Fine-tuning+VLMs+for+Low-Resource+Languages;Beat+Google+Document+AI+on+Sinhala+OCR+%F0%9F%93%84;First+Class+Honours+%40+University+of+Westminster" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;ML+%2F+AI+Engineer;NLP+Researcher;Software+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -53,7 +53,7 @@
 
 <div align="center">
   <a href="https://github.com/avishadilhara/Cross-Temporal-Sinhala-OCR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avishadilhara&repo=Cross-Temporal-Sinhala-OCR&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Cross-Temporal Sinhala OCR"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=avishadilhara&repo=Cross-Temporal-Sinhala-OCR&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Cross-Temporal Sinhala OCR"/>
   </a>
 </div>
 
@@ -68,10 +68,10 @@
 
 <div align="center">
   <a href="https://github.com/avishadilhara">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=avishadilhara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Avisha's GitHub stats"/>
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=avishadilhara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Avisha's GitHub stats"/>
   </a>
   <a href="https://github.com/avishadilhara">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishadilhara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=avishadilhara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
   </a>
 </div>
 
