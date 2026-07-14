@@ -61,7 +61,6 @@ I'm a Computer Science graduate (First Class Honours, University of Westminster)
 </picture>
 <!-- snake-animation-end -->
 
-*(This animates automatically once the GitHub Action below is added — see setup notes.)*
 
 <br/>
 
