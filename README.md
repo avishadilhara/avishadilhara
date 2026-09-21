@@ -9,6 +9,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/avisha-dilhara/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://doi.org/10.1109/MERCon71835.2026.11691307"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
 <a href="https://arxiv.org/abs/2606.29378"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white"/></a>
 
 </div>
@@ -20,7 +21,7 @@
 - 🎓 **Computer Science Graduate** (First Class Honours, University of Westminster).
 - 🔬 **AI & NLP Researcher:** Focused on fine-tuning Vision-Language Models for low-resource languages. My latest work achieved a **1.05% Character Error Rate** on printed Sinhala text (beating Google Document AI, Surya-OCR, and Tesseract v5) using LoRA/QLoRA.
 - 💻 **Software Engineer:** Experienced in building robust full-stack applications and automation tooling (Next.js, Spring Boot, Selenium, AWS) during my tenure at Turbogen Consultancy.
-- 📄 **Publications:** *"Cross-Temporal Sinhala OCR: Page-Level Adaptation and Diachronic Analysis"* accepted at **MERCon 2026** — [Read on arXiv](https://arxiv.org/abs/2606.29378).
+- 📄 **Publications:** *"Cross-Temporal Sinhala OCR: Page-Level Adaptation and Diachronic Analysis"* published at **MERCon 2026** — [Read on IEEE](https://doi.org/10.1109/MERCon71835.2026.11691307) | [Read on arXiv](https://arxiv.org/abs/2606.29378).
 - 🏅 **Leadership:** Vice President Public Relations at Moratuwa Toastmasters Club, President Scout, and active participant in IEEE UI/UX and coding competitions (CodeRally 4.0).
 - 🎯 **Currently seeking:** ML/AI Engineering, NLP, or Software Engineering roles.
 
